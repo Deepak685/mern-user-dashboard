@@ -2,13 +2,6 @@
 
 A responsive and full-stack **User Management Dashboard** built with the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). This app allows you to **add, edit, delete**, and **view users** with real-time updates and full MongoDB integration.
 
----
-
-## 📸 Preview
-
-> Add a screenshot here if available (optional)
-
----
 
 ## 📋 Features
 
